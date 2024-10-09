@@ -2,6 +2,7 @@
 
 ecommerce watch store(wristup)
 author: Muhammad Akram Khan
+
 Home Page/ Product listing page:
 ![image](https://github.com/user-attachments/assets/e60094b5-cc78-4190-b2b6-65900332aab4)
 ![image](https://github.com/user-attachments/assets/d4655822-178a-4d6f-a872-a7f8f6cf8a75)
